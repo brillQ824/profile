@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your hosted logo URL once uploaded to the repo -->
-<img src="https://raw.githubusercontent.com/brillQ824/profile/main/profile/logo_brillQ_s_2MB.png" alt="brillQ" width="420">
+<img src="https://raw.githubusercontent.com/brillQ824/profile/main/logo_brillQ_s_2MB.png" alt="brillQ" width="420">
 
 <br>
 
